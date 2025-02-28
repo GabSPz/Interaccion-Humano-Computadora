@@ -1,4 +1,4 @@
-# Diseño de procesos de la clínica de la FAcultad de de Psicología
+# Diseño de procesos de la clínica de la Facultad de de Psicología
 
 ## Definición de la Aplicación
 
@@ -31,7 +31,7 @@ Nosotros nos centraremos en el primer contacto que tiene clínica con los posibl
  - ¿Ha utilizado sistemas en línea de citas en otras clínicas o instituciones? Si es así, ¿qué aspectos positivos destacaría? 
  - ¿Del uno al 10 qué tan cómodo/a se sentiría utilizando un sistema digital para gestionar su cita en la clínica?
  
- ###Calendario de actividades
+ ### Calendario de actividades
  Vease en el apartardo del proyectos del repositorio.
  
  ### Descripción del problema 
@@ -79,9 +79,9 @@ El intercambio de información entre ambos usuarios es crucial para la correcta 
 
 ### Personas
 
-<img src="Content/personas/PersonaGavi.png" maxWidth="300px">
+<img src="Content/Personas/PersonaGavi.png" maxWidth="300px">
 
-<img src="Content/personas/PersonaHombre.png" maxWidth="300px">
+<img src="Content/Personas/PersonaHombre.png" maxWidth="300px">
 
 ## Requerimientos
 
