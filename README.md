@@ -1,5 +1,7 @@
 # Diseño de procesos de la clínica de la Facultad de Psicología
 
+## [Video de la primera entrega](https://alumnosuady-my.sharepoint.com/:f:/g/personal/a22216374_alumnos_uady_mx/Ekoozs8O8FNNrwtAeAyy_p4BbNifUa2pyDxav0AhB5iV6w?e=1XhNka)
+
 ## Definición de la Aplicación
 
 La facultad de psicología de la UADY tiene una clínica la cual ofrece psicodiagnósticos y psicoterapia. En la cual todos los procesos desde el primer contacto con las secretarias para agendar una cita para la recopilación de la información hasta la calendarización de citas o el control de pagos, se lleva a cabo su control en papel.  
