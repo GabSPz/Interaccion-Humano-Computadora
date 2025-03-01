@@ -1,4 +1,4 @@
-# Diseño de procesos de la clínica de la Facultad de de Psicología
+# Diseño de procesos de la clínica de la Facultad de Psicología
 
 ## Definición de la Aplicación
 
@@ -32,7 +32,7 @@ Nosotros nos centraremos en el primer contacto que tiene clínica con los posibl
  - ¿Del uno al 10 qué tan cómodo/a se sentiría utilizando un sistema digital para gestionar su cita en la clínica?
  
  ### Calendario de actividades
- Vease en el apartardo del proyectos del repositorio.
+ Véase en el apartardo de proyectos del repositorio.
  
  ### Descripción del problema 
  La facultad de psicología de la UADY tiene a su disposición una clínica la cual ofrece psicodiagnósticos y psicoterapia. En la cual todos los procesos desde el primer contacto con las secretarias para agendar una cita para la recopilación de la información hasta la calendarización de citas o el control de pagos, se lleva a cabo su control en papel.  
@@ -75,8 +75,6 @@ Este sistema no solo beneficiará al personal administrativo y los profesionales
  
 El intercambio de información entre ambos usuarios es crucial para la correcta asignación de citas en la clínica de atención psicológica de la facultad de Psicología.
 
-### Perfiles de usuario
-
 ### Personas
 
 <img src="User research/Personas/PersonaGavi.png" maxWidth="300px">
@@ -87,7 +85,7 @@ El intercambio de información entre ambos usuarios es crucial para la correcta 
 
 ### Requerimientos funcionales
 
-|Requerimeinto| Descripción |
+|Requerimiento| Descripción |
 | ------------ | ------------ |
 |RF1 | El sistema debe permitir a los pacientes agendar una cita. |
 |RF2 | Los administradores deben poder gestionar y modificar las citas de los pacientes. |
@@ -99,7 +97,7 @@ El intercambio de información entre ambos usuarios es crucial para la correcta 
 
 ### Requerimientos no funcionales
 
-|Requerimeinto| Descripción |
+|Requerimiento| Descripción |
 | ------------ | ------------ |
 | RNF1 | **Usabilidad:** La interfaz debe ser intuitiva y fácil de usar tanto para los pacientes como para el personal administrativo. |
 | RNF2 | **Accesibilidad:** El sistema debe ser accesible desde distintos dispositivos (PC, Tablet, smartphone). |
