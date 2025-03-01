@@ -52,13 +52,13 @@ Este sistema no solo beneficiará al personal administrativo y los profesionales
 ### Roles y responsabilidades  
  * **Project Manager** (Gabriel Sanchez [@GabSPz](https://github.com/GabSPz "@GabSPz")): Coordina al equipo y supervisar el cumplimiento de plazos y objetivos, asi como gestiona la comunicación con los stakeholders. Define el cronograma del proyecto y asigna tareas. 
 
- * **Analista de Requerimientos** (Marco Canche [@MarcoSIIIU](https://github.com/MarcoSIIIU "@MarcoSIIIU")): Recopila y documenta los requerimientos funcionales y no funcionales a través de entrevistas, encuestas y análisis de los procesos actuales, además de esto analiza la experiencia del usuario en el primer contacto con la clínica para identificar puntos de mejora y elabora especificaciones detalladas que sirvan de guía para el desarrollo del sistema. 
+ * **Analista de Requerimientos** (Marco Canche [@MarcoSIIIU](https://github.com/MarcoSIIIU "@MarcoSIIIU")): Recopila y documenta los requerimientos funcionales y no funcionales a través de entrevistas, encuestas y análisis de los procesos actuales.
 
- * **Diseñador UX** (Victor Rosado [@VictorHugoRok](https://github.com/VictorHugoRok "@VictorHugoRok")): Diseña una interfaz intuitiva y accesible que facilite el agendamiento de citas y la interacción tanto de pacientes como del personal administrativo, ademas crea prototipos y realizar pruebas de usabilidad para garantizar que el sistema sea amigable en diferentes dispositivos y asegurar que la experiencia de usuario responda a los requerimientos planteados en la investigación 
+ * **UX Researcher** (Victor Rosado [@VictorHugoRok](https://github.com/VictorHugoRok "@VictorHugoRok")): Investiga y define arquetipos o perfiles representativos de los usuarios a partir de datos y entrevistas, además realiza análisis cualitativos y cuantitativos para extraer insights sobre las necesidades, frustraciones y expectativas de los usuarios.
 
- * **Desarollador Frontend** (Fernando [@elegidocodes](https://github.com/elegidocodes "@elegidocodes")): Desarrolla la interfaz de usuario para la interacción directa con pacientes y personal administrativo, además de implementar funcionalidades que permitan la programación de citas, envío de notificaciones y recordatorios de forma eficiente. 
+ * **UX Strategist** (Fernando Canul [@elegidocodes](https://github.com/elegidocodes "@elegidocodes")): Elabora narrativas o casos de uso que describen cómo los usuarios interactúan con la clínica, permitiendo identificar puntos críticos y oportunidades de mejora, ademas de esto, estructura y adapta entrevistas dirigidas a pacientes, enfocándose en entender detalladamente sus experiencias, necesidades y sugerencias para optimizar el proceso.
 
- * **QA Tester** (José Gutiérrez [@Josegutierrezcouoh](https://github.com/Josegutierrezcouoh "@Josegutierrezcouoh")): Planifica y ejecuta pruebas de funcionalidad, usabilidad, rendimiento y seguridad, así como detecta y documenta errores o inconsistencias, asegurando que cada módulo del sistema funcione según lo esperado. 
+ * **UX Researcher** (José Gutiérrez [@Josegutierrezcouoh](https://github.com/Josegutierrezcouoh "@Josegutierrezcouoh")): Formaliza y comunica de forma clara la estructura del equipo y las responsabilidades de cada miembro, además realiza entrevistas en tiempo real con usuarios o partes interesadas para recoger feedback y validar los supuestos del proyecto.
 
 ### Usuarios
 
