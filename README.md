@@ -87,25 +87,34 @@ El intercambio de información entre ambos usuarios es crucial para la correcta 
 
 ### Requerimientos funcionales
 
-|Requerimiento| Descripción |
-| ------------ | ------------ |
-|RF1 | El sistema debe permitir a los pacientes agendar una cita. |
-|RF2 | Los administradores deben poder gestionar y modificar las citas de los pacientes. |
-|RF3 | El sistema debe enviar notificaciones automáticas de las citas a los pacientes (confirmar asistencia, cambio de horario, cancelación, etc.). |
-|RF4 | El sistema debe almacenar y administrar la información personal y de contacto de los pacientes. |
-|RF5 | El sistema debe generar reportes sobre las citas agendadas. |
-|RF6 | Los administradores deben poder consultar el historial de citas de cada paciente. |
-|RF7 | Debe existir un módulo para el registro datos y del estudio socioeconómico de los pacientes. |
+| Requerimiento | Descripción                                                                                                                                  |
+| ------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
+| RF1           | El sistema debe permitir a los pacientes agendar una cita.                                                                                   |
+| RF2           | Los administradores deben poder gestionar y modificar las citas de los pacientes.                                                            |
+| RF3           | El sistema debe enviar notificaciones automáticas de las citas a los pacientes (confirmar asistencia, cambio de horario, cancelación, etc.). |
+| RF4           | El sistema debe almacenar y administrar la información personal y de contacto de los pacientes.                                              |
+| RF5           | El sistema debe generar reportes sobre las citas agendadas.                                                                                  |
+| RF6           | Los administradores deben poder consultar el historial de citas de cada paciente.                                                            |
+| RF7           | Debe existir un módulo para el registro datos y del estudio socioeconómico de los pacientes.                                                 |
 
 ### Requerimientos no funcionales
 
-|Requerimiento| Descripción |
-| ------------ | ------------ |
-| RNF1 | **Usabilidad:** La interfaz debe ser intuitiva y fácil de usar tanto para los pacientes como para el personal administrativo. |
-| RNF2 | **Accesibilidad:** El sistema debe ser accesible desde distintos dispositivos (PC, Tablet, smartphone). |
-| RNF3 | **Disponibilidad:** El sistema debe estar disponible para la gestión de citas. |
-| RNF4 | **Seguridad:** La información de los pacientes solo debe estar disponible para el personal autorizado. 
-| RNF5 | **Compatibilidad:** La aplicación debe ser compatible con distintos medios. |
+| Requerimiento | Descripción                                                                                                                                  |
+| ------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
+| RNF1          | **Usabilidad:** La interfaz debe ser intuitiva y fácil de usar tanto para los pacientes como para el personal administrativo.                |
+| RNF2          | **Accesibilidad:** El sistema debe ser accesible desde distintos dispositivos (PC, Tablet, smartphone).                                      |
+| RNF3          | **Disponibilidad:** El sistema debe estar disponible para la gestión de citas.                                                               |
+| RNF4          | **Seguridad:** La información de los pacientes solo debe estar disponible para el personal autorizado.                                       |
+| RNF5          | **Compatibilidad:** La aplicación debe ser compatible con distintos medios.                                                                  |
+| RNF6          | **Eficiencia en tareas críticas:** Los pacientes deben poder agendar una cita en un máximo de 3 pasos o 5 minutos.                           |
+| RNF7          | **Diseño responsivo:** La interfaz debe adaptarse automáticamente a dispositivos móviles y tablets, garantizando funcionalidad completa.     |
+| RNF8          | **Manejo de errores intuitivo:** Los mensajes de error deben ser claros, con lenguaje no técnico y sugerir acciones correctivas.             |
+| RNF9          | **Consistencia visual y funcional:** Todos los módulos deben mantener un diseño unificado en colores, tipografías y flujos de navegación.    |
+| RNF10         | **Ayuda contextual:** Incluir tooltips al pasar el cursor sobre campos complejos y un chatbot integrado para resolver dudas frecuentes.      |
+| RNF11         | **Soporte multilingüe:** La interfaz debe estar disponible en español e inglés, con opción para cambiar el idioma en un máximo de dos clics. |
+| RNF12         | **Retroalimentación medible:** Implementar encuestas de satisfacción post-interacción y reportes mensuales de métricas de usabilidad.        |
+
+---
 
 ## Escenarios
 ### **Escenario Actual: Agendamiento Manual de Cita**  
