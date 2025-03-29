@@ -11,4 +11,4 @@ Gestión de citas y consultas
 | RF4 | Almacenamiento de datos de pacientes. | El sistema debe permitir registrar y administrar la información personal y de contacto de los pacientes, asegurando la integridad y seguridad de los datos. |
 | RF5 | Consulta de historial de citas | Los administradores pueden acceder al historial completo de citas de cada paciente, incluyendo detalles de las consultas previas y las próximas. |
 | RF6 | Registro de datos socioeconómicos. | El sistema cuenta con un módulo que permita registrar y gestionar los datos socioeconómicos de los pacientes, los cuales podrán ser utilizados para evaluación de subsidios o beneficios. |
-| RF7 | Genración de reportes. | El sistema debe generar reportes diarios estadísticos sobre las citas agendadas, canceladas y atendidas, permitiendo filtrar por fechas, profesionales y tipos de consulta. |
+| RF7 | Generación de reportes. | El sistema debe generar reportes diarios estadísticos sobre las citas agendadas, canceladas y atendidas, permitiendo filtrar por fechas, profesionales y tipos de consulta. |
