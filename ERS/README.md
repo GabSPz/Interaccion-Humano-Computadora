@@ -36,7 +36,7 @@ Ver documento relacionado: [Criterios de Validacion Requerimientos No Funcionale
 
 ## Casos de uso
 
-Se identifacaron 6 Casos de uso en el sistema:
+Se identificaron 6 Casos de uso en el sistema:
 1. Agendar cita médica.
 2. Modificar/Reasignar/Cancelar citas.
 3. Enviar notificaciones de estado de citas.
