@@ -18,7 +18,7 @@ Gestión de citas y consultas
 | RF7 | Genración de reportes. | El sistema debe generar reportes diarios estadísticos sobre las citas agendadas, canceladas y atendidas, permitiendo filtrar por fechas, profesionales y tipos de consulta. |
 
 ### Criterios de validación para requerimientos funcionales.
-Ver documento relacionado: [Criterios de Validacion Requerimientos Funcionales](Criterios_Validacion_Funcionales.md)
+Ver documento relacionado: [Criterios de Validacion Requerimientos Funcionales](ERS/Criterios_Validacion_Funcionales.md)
 ## Requerimientos No Funcionales
 
 ### Experiencia y Usabilidad
@@ -36,7 +36,7 @@ Ver documento relacionado: [Criterios de Validacion Requerimientos Funcionales](
 | RNF5 | Contrastes visuales | El sistema debe contar con contraste y tamaño de texto siguiendo practicas de accesibilidad para facilitar la lectura. |
 
 ### Criterios de validación para requerimientos no funcionales.
-Ver documento relacionado: [Criterios de Validacion Requerimientos No Funcionales](Criterios_Validacion_No_Funcionales.md)
+Ver documento relacionado: [Criterios de Validacion Requerimientos No Funcionales](ERS/Criterios_Validacion_No_Funcionales.md)
 
 
 ## Casos de uso
@@ -49,7 +49,7 @@ Se identificaron 6 Casos de uso en el sistema:
 5. Gestionar datos socioeconómicos.
 6. Generar reporte estadístico.
 
-Para mayor detalle de cada caso de uso, consulte el documento relacionado [Casos de Uso](Casos_De_Uso.md).
+Para mayor detalle de cada caso de uso, consulte el documento relacionado [Casos de Uso](ERS/Casos_De_Uso.md).
 
 ### Diagrama de casos de uso
 ![Casos de uso](<Casos de uso.png>)
