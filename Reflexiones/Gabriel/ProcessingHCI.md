@@ -2,7 +2,7 @@
 
 **By: Gabriel Sánchez Peraza**
 
-Integrating quality attributes such as usability, accessibility, and security into agile development projects is a constant challenge. Although these aspects are essential for an optimal user experience, they are often underestimated or misunderstood because of the significant effort required to validate them.
+Integrating quality attributes into agile development projects is a constant challenge. Although these aspects are essential for an optimal user experience, they are often underestimated or misunderstood because of the significant effort required to validate them.
 
 Key Lean UX practices that we applied during the two deliveries:
 
@@ -11,4 +11,4 @@ Key Lean UX practices that we applied during the two deliveries:
 
 However, for our process to truly follow the Lean approach, improvements are needed in areas such as team communication, establishing usability testing, and defining success metrics for each sprint.
 
-One of the things we learn when working with techniques like Lean UX is that `the real value of a product is not measured only by what works, but by how much it improves the user's life`. In agile environments, where the focus is on delivering quickly, quality attributes that require deep validation—such as usability or accessibility—are often overlooked. `Lean UX encourages us to test first, and build later like TDD methodology. It’s not just about delivering fast, but about delivering with purpose. Doing the right work from the beginning saves time and effort in the long run.`
+One of the things we learn when working with techniques like Lean UX is that `the real value of a product is not measured only by what works, but by how much it improves the user's life. Lean UX encourages us to test first, and build later like TDD methodology. It’s not just about delivering fast, but about delivering with purpose. Doing the right work from the beginning saves time and effort in the long run.`
