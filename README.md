@@ -1,19 +1,17 @@
-# Diseño de procesos de la clínica de la Facultad de Psicología
+# Prototipo del sistema de la  clinica de psicología
 
-[![Wireframe-HCI-1.png](https://i.postimg.cc/44tCqsnY/Wireframe-HCI-1.png)](https://postimg.cc/5jxkFcBJ)
+##### Página principal
 
-# Evolución de los requerimientos
+[![Captura-de-pantalla-2025-05-29-110718.png](https://i.postimg.cc/dQhgRdhY/Captura-de-pantalla-2025-05-29-110718.png)](https://postimg.cc/9zjxCDP8)
 
-## Requerimientos Funcionales
+## Requisitos Funcionales
 
 Gestión de citas y consultas
 | ID | Nombre | Descripción |
 | -- | ------ | ----------- |
 | RF1 | Agendamiento de citas | El sistema debe permitir a los pacientes agendar citas médicas seleccionando fecha, hora y tipo de consulta a través de una interfaz. |
 | RF2 | Notificaciones automáticas. | El sistema debe enviar notificaciones automáticas sobre el estado de las citas, incluyendo confirmación, recordatorios, cambios de horario o cancelaciones en dado de existir. |
-| RF3 | Registro de datos durante el primer contacto. | El sistema cuenta con un módulo que permita registrar y gestionar los datos de los pacientes que la secretaria/administrador obtiene durante el primer contacto, los cuales podrán ser utilizados para evaluación de pasos posteriores. |
-| RF4 | Genración de reportes de citas. | El sistema debe generar reportes diarios estadísticos sobre las citas agendadas, canceladas y atendidas, permitiendo filtrar por fechas, profesionales y tipos de consulta. |
-| RF5 | Recepción de comprobantes de pago. | El sistema debe ser capaz de recibir comprobantes de pago realizados por los pacientes. |
+| RF3 | Registro de datos. | El sistema cuenta con un módulo que permita registrar y gestionar los datos de los pacientes que la secretaria/administrador obtiene durante el primer contacto, los cuales podrán ser utilizados para evaluación de pasos posteriores. |
 
 
 ### Criterios de validación para requerimientos funcionales.
@@ -28,25 +26,17 @@ Ver documento relacionado: [Criterios de Validacion Requerimientos Funcionales](
 | RNF2 | Interfaz adaptable. | El sistema debe tener una interfaz que debe adaptarse automáticamente a diferentes resoluciones de pantalla sin perder funcionalidad. |
 | RNF3 | Accesibilidad en la infraestructura. |El sistema debe ser accesible desde los distintos dispositivos de la oficina administrativa y funcionar correctamente en ellos durante todo el tiempo de utilidad. |
 
-### Accesibilidad
-
-| ID | Nombre | Descripción |
-| -- | ------ | ----------- |
-| RNF5 | Contrastes visuales | El sistema debe contar con contraste y tamaño de texto siguiendo practicas de accesibilidad para facilitar la lectura. |
-
 ### Criterios de validación para requerimientos no funcionales.
 Ver documento relacionado: [Criterios de Validacion Requerimientos No Funcionales](ERS/Criterios_Validacion_No_Funcionales.md)
 
 
 ## Casos de uso
 
-Se identificaron 6 Casos de uso en el sistema:
+Se identificaron 4 Casos de uso en el sistema:
 1. Agendar cita médica.
 2. Modificar/Reasignar/Cancelar citas.
 3. Enviar notificaciones de estado de citas.
-4. Acceder al historial clínico.
-5. Gestionar datos socioeconómicos.
-6. Generar reporte estadístico.
+4. Capturar datos.
 
 Para mayor detalle de cada caso de uso, consulte el documento relacionado [Casos de Uso](ERS/Casos_De_Uso.md).
 
@@ -56,25 +46,4 @@ Para mayor detalle de cada caso de uso, consulte el documento relacionado [Casos
 ## Prototipado de interfaces
 
 Página principal
-[![Wireframe-HCI-1.png](https://i.postimg.cc/44tCqsnY/Wireframe-HCI-1.png)](https://postimg.cc/5jxkFcBJ)
-
-Agendar una cita
-[![Wireframe-HCI-2-page-0001.jpg](https://i.postimg.cc/7Y8qPD62/Wireframe-HCI-2-page-0001.jpg)](https://postimg.cc/Z0cGjG6b)
-
-Cita agendada
-[![Wireframe-HCI-3-page-0001.jpg](https://i.postimg.cc/kGx3R64t/Wireframe-HCI-3-page-0001.jpg)](https://postimg.cc/1V5YLzD9)
-
-Pagina de inicio de sesión
-[![Wireframe-HCI-4-page-0001.jpg](https://i.postimg.cc/g0RDWvBR/Wireframe-HCI-4-page-0001.jpg)](https://postimg.cc/wtqJ5szT)
-
-Página para administrar citas
-[![Wireframe-HCI-5-page-0001.jpg](https://i.postimg.cc/gc4Kmc4M/Wireframe-HCI-5-page-0001.jpg)](https://postimg.cc/mhz9SsvM)
-
-Página principal vista de movil
-[![Wireframe-HCI-7-page-0001.jpg](https://i.postimg.cc/pL5Qffv7/Wireframe-HCI-7-page-0001.jpg)](https://postimg.cc/nXZQZQCY)
-
-Página principal selección de fecha y hora vista de movil
-[![Wireframe-HCI-8-page-0001.jpg](https://i.postimg.cc/d30rLdn5/Wireframe-HCI-8-page-0001.jpg)](https://postimg.cc/7GpfR5Fz)
-
-[Flujos completos en figma]([Wireframe-HCI-8-page-0001.jpg](https://i.postimg.cc/d30rLdn5/Wireframe-HCI-8-page-0001.jpg)](https://postimg.cc/7GpfR5Fz))
 
