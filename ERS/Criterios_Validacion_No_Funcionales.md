@@ -36,14 +36,3 @@ El sistema debe ser accesible desde distintos dispositivos dentro de la oficina 
 * Verificación de la correcta visualización en distintas resoluciones de pantalla.
 * Evaluación de rendimiento en redes internas de la oficina.
 
-# Accesibilidad
-
-## RNF4 – Contrastes visuales
-### Descripción del Criterio
-El sistema debe contar con contrastes y tamaño de texto adecuados para facilitar la lectura.
-### Condiciones de Aceptación
-1.	La relación de contraste entre el texto y el fondo debe cumplir con lo solicitado.
-2.	Se debe permitir el ajuste de tamaño de texto sin afectar la estructura de la interfaz.
-3.	Se debe realizar una validación con usuarios con dificultades visuales.
-### Método de Validación
- * Pruebas con usuarios para evaluar la legibilidad.

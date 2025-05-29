@@ -80,28 +80,7 @@ El sistema envía alertas automáticas sobre confirmaciones, recordatorios, camb
 #### 12.	Postcondiciones:
 13.	El usuario recibe la notificación correspondiente.
 
-## RF5: Consulta del historial de citas
-### UC-004 – Acceder al historial clínico
-### Actor Principal
-Administrador
-
-### Descripción
-Permite visualizar el historial completo de citas de un paciente.
-
-### Precondiciones:
-1.	El paciente está registrado en el sistema.
-#### 2.	Flujo Principal:
-3.	El administrador busca al paciente por nombre o ID.
-4.	El sistema muestra una lista de citas (pasadas y futuras).
-5.	El administrador selecciona una cita para ver detalles.
-6.	El sistema muestra información como fecha, psicólogo y notas de consulta.
-#### 7.	Flujos Alternativos:
-8.	FA1: El paciente no tiene citas registradas.
-9.	El sistema muestra un mensaje: "No hay historial disponible".
-#### 10.	Postcondiciones:
-11.	El administrador obtiene la información requerida.
-
-## RF6: Registro de datos socioeconómicos
+## RF4: Registro de datos
 ### UC-005 – Gestionar datos socioeconómicos
 
 ### Actor Principal
@@ -122,23 +101,3 @@ Permite registrar y actualizar datos socioeconómicos del paciente.
 10.	El sistema resalta los campos erróneos y solicita corrección.
 #### 11. Postcondiciones:
 12.	Los datos socioeconómicos quedan almacenados en el expediente.
-
-## RF7: Generación de reportes
-### UC-006 – Generar reporte estadístico
-### Actor Principal
-Administrador
-
-### Descripción
-Permite crear reportes diarios de citas agendadas, canceladas y atendidas.
-### Precondiciones:
-1.	Existen citas registradas en el sistema.
-#### 2.	Flujo Principal:
-3.	El administrador accede al módulo de reportes.
-4.	Selecciona filtros (fecha, psicólogo, tipo de consulta).
-5.	El sistema genera el reporte en formato PDF/Excel.
-6.	El administrador descarga o imprime el reporte.
-#### 7.	Flujos Alternativos:
-8.	**FA1:** No hay datos para los filtros aplicados.
-9.	El sistema muestra: "No se encontraron registros".
-#### 10.	Postcondiciones:
-11.	El administrador obtiene el reporte solicitado.
