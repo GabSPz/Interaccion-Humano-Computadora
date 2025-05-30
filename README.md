@@ -1,8 +1,19 @@
 # Prototipo del sistema de la  clinica de psicología
 
-##### Página principal
+## Sistema de Gestión Administrativa para la Clínica de Psicología UADY
 
-[![Captura-de-pantalla-2025-05-29-110718.png](https://i.postimg.cc/dQhgRdhY/Captura-de-pantalla-2025-05-29-110718.png)](https://postimg.cc/9zjxCDP8)
+Este proyecto aborda la necesidad de modernizar la gestión en la clínica de la Facultad de Psicología de la UADY, la cual ofrece servicios de psicodiagnóstico y psicoterapia. Actualmente, todos los procesos, desde el agendamiento inicial de citas para recopilación de información hasta la calendarización y control de pagos, se realizan manualmente en papel. Esta metodología es ineficiente y genera dificultades en el control, la búsqueda de información y la reprogramación de citas, entre otros procesos.
+
+El **Sistema de Gestión Administrativa** propuesto busca solucionar esta problemática. Para esta **Tercera Entrega**, nuestro equipo se ha centrado específicamente en el primer contacto entre la clínica y los posibles pacientes. El enfoque principal es la **optimización de la programación de citas para la recopilación de datos y la realización del estudio socioeconómico de los posibles pacientes**.
+
+
+
+El objetivo general del sistema a largo plazo es:
+* Automatizar el registro de citas, eliminando el proceso manual y reduciendo errores.
+* Mejorar la comunicación mediante la implementación de recordatorios automáticos para pacientes y notificaciones para el personal.
+* Facilitar las tareas del personal administrativo y los profesionales de la clínica, mejorando también la experiencia del paciente.
+
+Te invitamos a explorar el contenido de esta entrega para conocer en detalle el trabajo realizado en la búsqueda de una solución eficiente y sencilla para el departamento de administración de la clínica.
 
 ## Requisitos Funcionales
 
@@ -42,6 +53,10 @@ Para mayor detalle de cada caso de uso, consulte el documento relacionado [Casos
 
 
 ## Prototipado de interfaces
+
+##### Página principal
+
+[![Captura-de-pantalla-2025-05-29-110718.png](https://i.postimg.cc/dQhgRdhY/Captura-de-pantalla-2025-05-29-110718.png)](https://postimg.cc/9zjxCDP8)
 
 #### Formulario de solicitud de cita
 

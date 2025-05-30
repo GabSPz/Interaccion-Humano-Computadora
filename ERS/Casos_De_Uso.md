@@ -16,8 +16,8 @@ Permite al paciente seleccionar fecha, hora y tipo de consulta mediante una inte
 4.	El paciente accede al módulo de agendamiento.
 5.	El sistema muestra las fechas y horarios disponibles.
 6.	El paciente selecciona fecha, hora y tipo de consulta.
-7.	El sistema valida la disponibilidad.
-8.	El paciente confirma la cita.
+7.	El administrador valida la disponibilidad y confirma la cita.
+8.	El paciente recibe la confirmación de la cita.
 9.	El sistema registra la cita y muestra un mensaje de confirmación.
 #### 10. Flujos Alternativos:
 11.	**FA1:** No hay disponibilidad en la fecha/hora seleccionada.
