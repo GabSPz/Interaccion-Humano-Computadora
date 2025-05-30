@@ -81,7 +81,7 @@ El sistema envía alertas automáticas sobre confirmaciones, recordatorios, camb
 13.	El usuario recibe la notificación correspondiente.
 
 ## RF4: Registro de datos
-### UC-005 – Gestionar datos socioeconómicos
+### UC-004 – Gestionar datos socioeconómicos
 
 ### Actor Principal
 Administrador
