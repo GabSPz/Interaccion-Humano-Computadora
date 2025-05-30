@@ -78,4 +78,27 @@ Para mayor detalle de cada caso de uso, consulte el documento relacionado [Casos
 
 [![Captura-de-pantalla-2025-05-30-162339.png](https://i.postimg.cc/Qtsg48Q7/Captura-de-pantalla-2025-05-30-162339.png)](https://postimg.cc/NyJrLwPG)
 
+### Colaboradores
+
+- **Marco Santiago Canché May** - Product Owner / Developer
+  [[Github]](https://github.com/MarcoSIIIU)
+  [[LinkedIn]]((https://www.linkedin.com/in/marcocanchemscm/))
+
+- **Gabriel Sanchez Peraza** - Scrum master / Developer
+  [[Github]](https://github.com/GabSPz)
+  [[LinkedIn]](https://www.linkedin.com/in/gabriel-sanchez-peraza-21b59a248/)
+
+- **José Luis Gutiérrez Couoh** - Developer
+[[Github]](https://github.com/Josegutierrezcouoh)
+[[LinkedIn]](https://www.linkedin.com/in/josé-gutiérrez-96a3bb28b/)
+
+- **Fernando Canul Caballero** - Developer
+[[Github]](https://github.com/elegidocodes)
+[[LinkedIn]](https://www.linkedin.com)
+
+- **Victor Hugo Rosado** - Developer
+[[Github]](https://github.com/VictorHugoRok)
+[[LinkedIn]](https://www.linkedin.com)
+
+
 
