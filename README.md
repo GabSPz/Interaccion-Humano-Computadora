@@ -40,10 +40,27 @@ Se identificaron 4 Casos de uso en el sistema:
 
 Para mayor detalle de cada caso de uso, consulte el documento relacionado [Casos de Uso](ERS/Casos_De_Uso.md).
 
-### Diagrama de casos de uso
-![Casos de uso](<Casos de uso.png>)
 
 ## Prototipado de interfaces
 
-Página principal
+#### Formulario de solicitud de cita
+
+[![Captura-de-pantalla-2025-05-30-160510.png](https://i.postimg.cc/V6KvzJm8/Captura-de-pantalla-2025-05-30-160510.png)](https://postimg.cc/cg80m4v9)
+
+#### Confirmación de solicitud de citas
+
+[![Captura-de-pantalla-2025-05-30-160805.png](https://i.postimg.cc/T1Y6Y0Q7/Captura-de-pantalla-2025-05-30-160805.png)](https://postimg.cc/xJ776KwM)
+
+#### Consulta de citas
+
+[![Captura-de-pantalla-2025-05-30-161842.png](https://i.postimg.cc/6q4n1kGn/Captura-de-pantalla-2025-05-30-161842.png)](https://postimg.cc/5Q1XXkg2)
+
+[![Captura-de-pantalla-2025-05-30-162025.png](https://i.postimg.cc/VNyfj3z2/Captura-de-pantalla-2025-05-30-162025.png)](https://postimg.cc/CRNp0rB4)
+
+#### Cancelación de citas
+
+[![Captura-de-pantalla-2025-05-30-162245.png](https://i.postimg.cc/441QjgMb/Captura-de-pantalla-2025-05-30-162245.png)](https://postimg.cc/fkJd06MJ)
+
+[![Captura-de-pantalla-2025-05-30-162339.png](https://i.postimg.cc/Qtsg48Q7/Captura-de-pantalla-2025-05-30-162339.png)](https://postimg.cc/NyJrLwPG)
+
 
