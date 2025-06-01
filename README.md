@@ -15,6 +15,9 @@ El objetivo general del sistema a largo plazo es:
 
 Te invitamos a explorar el contenido de esta entrega para conocer en detalle el trabajo realizado en la búsqueda de una solución eficiente y sencilla para el departamento de administración de la clínica.
 
+## Investigación de usuarios
+Se llevó a cabo una investigación de usuarios con el propósito de identificar los perfiles y necesidades de nuestros usuarios. Para ello, se realizaron entrevistas, observaciones y se desarrollaron arquetipos de usuarios (Personas). Para más detalles de la investigación, consulte la carpeta correspondiente: [User Research](User%20research)
+
 ## Requisitos Funcionales
 
 Gestión de citas y consultas
